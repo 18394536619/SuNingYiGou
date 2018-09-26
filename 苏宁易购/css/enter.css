@@ -1,0 +1,294 @@
+@charset"utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+*{
+	text-decoration: none;
+}
+ul li{
+	list-style: none;
+	background: transparent;
+}
+input{
+	border: none;
+	outline: none;
+}
+.title{
+	width: 100%;
+	height: 100px;
+	background-color: white;
+}
+.body{
+	width: 1920px;
+	height: 560px;
+	background-color: #f493a7;
+	margin: 0 auto;
+}
+.end{
+	width: 100%;
+	height: 300px;
+	background-color: white;
+}
+.title .top{
+	width: 1200px;
+	height: 100px;
+	background-color: white;
+	margin: 0 auto;
+}
+.title .top .image{
+	width: 190px;
+	height: 90px;
+	background-color: white;
+	float: left;
+	margin-left: 70px;
+
+}
+.title .top .top1{
+	width: 800px;
+	height: 20px;
+	background-color: #fefff1;
+	border: 1px solid #fecd66;
+	float: left;
+	font-size: 12px;
+	margin-top: 40px;
+	margin-left: 20px;
+
+}
+.title .top .top1 p{
+	margin-left: 8px;
+	color: #333;
+}
+.top a{
+	float: left;
+	margin-top: 70px;
+	margin-left: -130px;
+	font-size: 12px;
+}
+.top a:hover{
+	color: red;
+}
+.top i{
+	
+	float: left;
+	margin-top: 70px;
+	margin-left: -150px;
+}
+
+.body .body1{
+	width: 1100px;
+	height: 500px;
+	background-color: #f493a7;
+	margin: 0 auto;
+}
+.body .body1 .bbc{
+	float: left;
+	margin-top: 40px;
+}
+.body .body2{
+	width: 360px;
+	height: 410px;
+	background-color: white;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.body .body2 .body2-1{
+	width: 360px;
+	height: 50px;
+}
+.body .body2 .body2-1 .kkk {
+	width: 178px;
+	height: 50px;
+	border-right: red;
+	float: left;
+	text-align: center;
+	line-height: 45px;
+}
+.body .body2 .body2-1 .ccc {
+	width: 178px;
+	height: 50px;
+	border-right: red;
+	float: left;
+	text-align: center;
+	line-height: 45px;
+}
+.body a:hover{
+	color: red;
+}
+.body1 .body2 .zzz{
+	width: 360px;
+	height: 164px;
+	background-color: white;
+	float: left;
+	margin-top: 50px;
+}
+.body1 .body2 .zzz img{
+	float: left;
+	margin-top: -0.000000000000001px;
+	margin-left: 110px;
+}
+.body1 .body2 .vvv p {
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+}
+.body3{
+	width: 360px;
+	height: 103px;
+	margin-top: 10px;
+	text-align: center;
+}
+.body3 p{
+	color: #999999;
+	text-align: center;
+	font-size: 14px;
+}
+.body3 .iconfont .icon-QQ{
+	color: red;
+}
+.body3 a{
+	font-size: 14px;
+}
+.body .body3 .lll i{
+	color: #65a3de;
+}
+.body .body3 .ppp i{
+	color: #51c332;
+}
+.end a{
+	font-size: 14px;
+	color: #666666;
+}
+.end span{
+	font-size: 14px;
+}
+.end{
+	text-align: center;
+}
+.end p{
+	line-height: 28px;
+}
+.end .col3 span{
+	color: #999999;
+}
+.end div{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
+.top-two{
+	display: none;
+}
+
+/*界面的切换
+.kkk a:hover{
+	display: block;
+}
+
+
+
+.kkk a:hover .top-one{
+	display: block;
+}
+
+.top-one{
+	display: none;
+}
+*/
+
+
+
+.top-two .tip{
+	width: 310px;
+	height: 40px;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.top-two .tip-1{
+	width: 310px;
+	height: 40px;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.top-two .tip .img1{
+	float: left;
+	margin-top: 4px;
+
+}
+.top-two .tip input{
+	width: 273px;
+	height: 37px;
+}
+.top-two .tip-1 .img2{
+	float: left;
+	margin-top: 4px;
+
+}
+.top-two .tip-1 input{
+	width: 273px;
+	height: 37px;
+}
+.top-two .tpp{
+	width: 310px;
+	height: 20px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.top-two .tpp a{
+	font-size: 14px;
+}
+.top-two .tpp button{
+	width: 310px;
+	height: 40px;
+	background-color: #ff6600;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.top-two .tpp p{
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+.tdd3{
+	width: 360px;
+	height: 80px;
+	margin-top: 10px;
+	text-align: center;
+	margin-top: 90px;
+}
+.tdd3 p{
+	color: #999999;
+	text-align: center;
+	font-size: 14px;
+}
+.tdd3 .iconfont .icon-QQ{
+	color: red;
+}
+.tdd3 a{
+	font-size: 14px;
+}
+.tdd3 .lll i{
+	color: #65a3de;
+}
+.tdd3 .ppp i{
+	color: #51c332;
+}
+
+
+.

@@ -1,0 +1,95 @@
+@charset"utf-8";
+
+.twenty .twenty-s{
+	width: 1200px;
+	height: 70px;
+	background-color: #f2f2f2;
+	margin: 0 auto;
+	margin-top: -22px;
+}
+.twenty-s p{
+	font-size: 18px;
+	text-align: center;
+	color: #cccfd7;
+}
+.twenty-s .ppp{
+	width: 60px;
+	border: 1px solid #cccfd7;
+	float: left;
+	margin-left: 500px;
+	margin-top: -12px;
+}
+.twenty-s .ooo{
+	width: 60px;
+	border: 1px solid #cccfd7;
+	float: right;
+	margin-right: 500px;
+	margin-top: -13px;
+}
+.twenty .twenty-x{
+
+	width: 1200px;
+	height: 90px;
+	background-color: #f5f5f5;
+	margin: 0 auto;
+}
+.twenty .twenty-x ul li{
+	width: 238px;
+	height: 74px;
+	border: 1px solid #f5f5f5;
+	float: left;
+}
+.twenty .twenty-v{
+
+	width: 1200px;
+	height: 190px;
+	background-color: #f5f5f5;
+	margin: 0 auto;
+}
+.twenty .twenty-v ul li{
+	width: 198px;
+	height: 182px;
+	float: left;
+}
+.twenty .twenty-x ul li img{
+	float: left;
+	margin-top: -4px;
+}
+.twenty .twenty-x ul li a{
+	font-weight: bold;
+	font-size: 14px;
+	float: left;
+	margin-left: 8px;
+	margin-top: 14px;
+}
+.twenty .twenty-x ul li p{
+	width: 150px;
+	font-size: 12px;
+	float: left;
+	margin-left: 8px;
+
+}
+.twenty-v .end-2 a{
+	font-size: 12px;
+	color: #545454;
+	font-weight: none;
+}
+.twenty-v div{
+	width: 98px;
+	margin-top: 5px;
+}
+.twenty-v ul li a{
+	color: #545454;
+	font-size: 14px;
+	margin-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
